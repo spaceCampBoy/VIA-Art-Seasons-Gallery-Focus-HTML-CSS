@@ -1,0 +1,146 @@
+.menu li {
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    float: right;
+    font-size: 14px;
+    font-family: Arial;
+    color: #575757;
+    font-weight: bold;
+    padding-left: 18px;
+}
+
+ul.menu {
+    overflow: hidden;
+    position: absolute;
+    top: 48px;
+    right: 22px;
+}
+
+.menu li a {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial;
+    color: #575757;
+    font-weight: bold;
+    padding-left: 18px;
+}
+
+ul li.menu a:hover {
+    text-decoration: underlined;
+    font-size: 14px;
+    font-family: Arial;
+    color: #000000;
+    font-weight: bold;
+    padding-left: 18px;
+}
+
+.menu li a:visited {
+    font-size: 14px;
+    font-family: Arial;
+    color: #575757;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 18px;
+}
+
+.menu li:hover {
+    color: #000000;
+    text-decoration: underlined;
+}
+
+.logo img {
+    overflow: hidden;
+    position: absolute;
+    top: 56px;
+    left: -8px;
+}
+
+.facebook img {
+    position: absolute;
+    right: 90px;
+    top: 7px;
+}
+
+.switchlang {
+    position: absolute;
+    top: 11px;
+    right: 15px;
+    font-size: 11px;
+    font-family: Arial;
+    color: #a8a8a8;
+    text-decoration: none;
+}
+
+.switchlang:hover {
+    position: absolute;
+    top: 11px;
+    right: 15px;
+    font-size: 11px;
+    color: #4d4d4e;
+    text-decoration: underlined;
+}
+
+body {
+    margin-top: 20px;
+    padding-top: 60px;
+    width: 1100px;
+    border: 0px solid #000000;
+    margin: 0 auto;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.tb-header {
+    font-family: Arial;
+    font-size: 14px;
+    color: #a8a8a8;
+    font-weight: bold;
+    padding-top: -10px;
+    padding-bottom: 40px;
+    text-align: center
+}
+
+.thumb {
+    width: 200px;
+    height: 100px;
+    padding: 5px, 5px, 5px, 5px;
+    border-style:
+}
+
+.smallphotobox {
+    font-size: 13px;
+    padding-bottom: 20px;
+    color: #a8a8a8;
+    text-align: center;
+}
+
+.mainphotobox {
+    padding-top: 36px;
+    padding-right: 30px
+}
+
+.likeimg {
+    text-align: center;
+}
+
+table .t1 {
+    border=0;
+    width=1100px;
+}
+
+.ftext1 {
+    font-size: 17px;
+    color: #bc2836;
+    margin-bottom: 20px;
+}
+
+.ftext2 {
+    font-size: 10px;
+    text-align: left;
+}
+.ftext3 {
+    font-size: 10px;
+    text-align: right;
+    float: right;
+}
